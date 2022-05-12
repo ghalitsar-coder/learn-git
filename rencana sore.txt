@@ -1,0 +1,2 @@
+- Jam 1 - 3
+ * saya dihabisi dengan belajar git
