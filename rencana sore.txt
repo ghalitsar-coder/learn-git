@@ -4,7 +4,7 @@
   * belajar membuat admin dashboard
   
 - Jam 3 - 6
-  * belajar vue
+  * belajar firebase
   * belajar membuat pagination
   * belajar untuk utbk
 
