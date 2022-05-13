@@ -1,9 +1,10 @@
 - Jam 1 - 3
   * belajar reactjs
   * belajar git
-  * belajar membuat admin ecommerce
+  * belajar membuat admin dashboard
   
 - Jam 3 - 6
   * belajar firebase
   * belajar membuat pagination
   * belajar untuk utbk
+
